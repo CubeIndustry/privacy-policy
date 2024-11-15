@@ -16,7 +16,7 @@ Beim Laden des Discord-Widgets können personenbezogene Daten von Discord verarb
 Die Verarbeitung der Daten erfolgt auf Grundlage Ihrer Einwilligung gemäß **Art. 6 Abs. 1 lit. a DSGVO.** Ohne Ihre Zustimmung wird das Discord-Widget nicht geladen.
   
 ### Datenschutz bei Discord
-Die Datenverarbeitung durch das Discord-Widget erfolgt durch Discord Inc. Discord ist eigenständiger Verantwortlicher und verarbeitet die Daten gemäß der eigenen [https://discord.com/privacy](Datenschuterklärung). Discord ist unter dem **EU-US Data Privacy Framework** zertifiziert und gewährleistet ein angemessenes Datenschutzniveau.
+Die Datenverarbeitung durch das Discord-Widget erfolgt durch Discord Inc. Discord ist eigenständiger Verantwortlicher und verarbeitet die Daten gemäß der eigenen [Datenschuterklärung](https://discord.com/privacy). Discord ist unter dem **EU-US Data Privacy Framework** zertifiziert und gewährleistet ein angemessenes Datenschutzniveau.
     
 ### Widerruf der Einwilligung
 Sie können Ihre Einwilligung jederzeit widerrufen, indem Sie die Cookie-Einstellungen Ihrer Website aufrufen und das Laden des Discord-Widgets deaktivieren.
